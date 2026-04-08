@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to DesignXBank accounts related prod APIs "
+  message: "Welcome to DesignXBank accounts related production APIs "
   contactDetails:
     name: "John Doe - Product Owner"
     email: "{cipher}7a8606402a0ef85b8ec9635c76b4873b079d8feeea15eee9672d49aef112050b736827ae9c22c4782ef1b5641c590ee6"
