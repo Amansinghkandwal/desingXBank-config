@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to designXBank cards production service API"
   contactDetails:
-    name: "John Doe - QA-lead"
+    name: "John Doe - Prod-lead"
     email: "john@designXbank.com"
   onCallSupport:
     - (666) 555-1234
